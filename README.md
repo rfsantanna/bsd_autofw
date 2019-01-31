@@ -56,3 +56,5 @@ optional arguments:
  - confirm apply
  
 `python3.6 bsd_autofw.py -i ena0 -t 20 -n 3 --syn -rt 60 --debug --apply HOST_IP_ADDR`
+
+![alt text](https://github.com/rfsantanna/bsd_autofw/raw/master/ex.png)
