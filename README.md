@@ -13,6 +13,7 @@ pkg install tcpdump
 
 ```
 git clone https://github.com/rfsantanna/bsd_autofw.git
+or
 curl -O https://github.com/rfsantanna/bsd_autofw/raw/master/bsd_autofw.py
 ``` 
 
