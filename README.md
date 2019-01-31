@@ -11,9 +11,10 @@ pkg install tcpdump
 
 ## **Quick Start**
 
-`git clone https://github.com/rfsantanna/bsd_autofw.git`
-or
-`curl -O https://github.com/rfsantanna/bsd_autofw/raw/master/bsd_autofw.py`
+```
+git clone https://github.com/rfsantanna/bsd_autofw.git
+curl -O https://github.com/rfsantanna/bsd_autofw/raw/master/bsd_autofw.py
+``` 
 
 #### Usage:
 
