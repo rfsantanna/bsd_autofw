@@ -55,6 +55,4 @@ optional arguments:
  - show packets
  - confirm apply
  
-```
-python3.6 bsd_autofw.py -i ena0 -t 20 -n 3 --syn -rt 60 --debug --apply HOST_IP_ADDR
-```
+`python3.6 bsd_autofw.py -i ena0 -t 20 -n 3 --syn -rt 60 --debug --apply HOST_IP_ADDR`
